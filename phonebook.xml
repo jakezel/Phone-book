@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+	<Contact>
+		<LastName>Reyes Artola</LastName>
+		<FirstName>Rudy Jose</FirstName>
+		<Phone>
+			<phonenumber>057900041</phonenumber>
+			<accountindex>1</accountindex>
+			<downloaded>0</downloaded>
+		</Phone>
+		<Groups>
+			<groupid>2</groupid>
+		</Groups>
+	</Contact>
+	<Contact>
+		<LastName>Mendoza</LastName>
+		<FirstName>Marus Adonis</FirstName>
+		<Phone>
+			<phonenumber>087668513</phonenumber>
+			<accountindex>1</accountindex>
+			<downloaded>0</downloaded>
+		</Phone>
+		<Groups>
+			<groupid>2</groupid>
+		</Groups>
+	</Contact>
+	<Contact>
+		<LastName>Blanco</LastName>
+		<FirstName>Santiago de Valle</FirstName>
+		<Phone>
+			<phonenumber>088888896</phonenumber>
+			<accountindex>1</accountindex>
+			<downloaded>0</downloaded>
+		</Phone>
+		<Groups>
+			<groupid>2</groupid>
+		</Groups>
+	</Contact>
+	<Contact>
+		<LastName>Rodriguez</LastName>
+		<FirstName>Jhonny</FirstName>
+		<Phone>
+			<phonenumber>083231366</phonenumber>
+			<accountindex>1</accountindex>
+			<downloaded>0</downloaded>
+		</Phone>
+	</Contact>
+	<Contact>
+		<LastName>Flores</LastName>
+		<FirstName>Orlando</FirstName>
+		<Phone>
+			<phonenumber>083371586</phonenumber>
+			<accountindex>1</accountindex>
+			<downloaded>0</downloaded>
+		</Phone>
+		<Groups>
+			<groupid>2</groupid>
+		</Groups>
+	</Contact>
+	<Contact>
+		<LastName>Lara</LastName>
+		<FirstName>Gabriela </FirstName>
+		<Phone>
+			<phonenumber>078723862</phonenumber>
+			<accountindex>1</accountindex>
+			<downloaded>0</downloaded>
+		</Phone>
+		<Groups>
+			<groupid>2</groupid>
+		</Groups>
+	</Contact>
+	<Contact>
+		<LastName>Salinas</LastName>
+		<FirstName>Levys </FirstName>
+		<Phone>
+			<phonenumber>085749082</phonenumber>
+			<accountindex>1</accountindex>
+			<downloaded>0</downloaded>
+		</Phone>
+		<Groups>
+			<groupid>2</groupid>
+		</Groups>
+	</Contact>
+</AddressBook>
+
+
