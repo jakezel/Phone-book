@@ -55,11 +55,11 @@
 		</Phone>
 		<Groups>
 			<groupid>2</groupid>
-		</Groups>
+	</Groups>
 	</Contact>
 	<Contact>
 		<LastName>Lara</LastName>
-		<FirstName>Gabriela </FirstName>
+		<FirstName>Gabriela</FirstName>
 		<Phone>
 			<phonenumber>078723862</phonenumber>
 			<accountindex>1</accountindex>
@@ -71,7 +71,7 @@
 	</Contact>
 	<Contact>
 		<LastName>Salinas</LastName>
-		<FirstName>Levys </FirstName>
+		<FirstName>Levys</FirstName>
 		<Phone>
 			<phonenumber>085749082</phonenumber>
 			<accountindex>1</accountindex>
@@ -82,5 +82,3 @@
 		</Groups>
 	</Contact>
 </AddressBook>
-
-
